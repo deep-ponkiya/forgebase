@@ -20,7 +20,7 @@ class Login extends State<LoginState> {
   String userpassword = password.text;
   String token;
 
-  Future<String> getToken() async {
+  /*Future<String> getToken() async {
     String url = "http://192.168.31.22/api/auth/login";
     var response = await http.post(url, body: {"email":"npvarasada@hotmail.com","password":"Palioncorei3#"});
     setState(() {
@@ -28,7 +28,7 @@ class Login extends State<LoginState> {
       //token=extradata;
       print(extradata);
     });
-  }
+  }*/
   @override
   void initState() {
     super.initState();
@@ -130,7 +130,7 @@ class Login extends State<LoginState> {
               child: RaisedButton(
                 onPressed: () async {
                   //Navigator.push(context, MaterialPageRoute(builder: (context)=>Mainpage()));
-                  getToken();
+                 // getToken();
                   showDialogSingleButton(context, "Token", token, "Done");
                 },
                 textColor: Colors.white,
