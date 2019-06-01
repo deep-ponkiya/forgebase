@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Setting",
+    "Icon": "assets/settings.svg",
+    "Contex": "Settings()"
+  },
+  {
+    "name": "Material",
+    "Icon": "assets/settings.svg",
+    "Contex": "MyHomePage()"
+  }
+
+]
+
+

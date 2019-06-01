@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "644362503991",
+    "firebase_url": "https://foregbase.firebaseio.com",
+    "project_id": "foregbase",
+    "storage_bucket": "foregbase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644362503991:android:519c137bfbd0570b",
+        "android_client_info": {
+          "package_name": "com.inverttriangle.forgbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644362503991-eev0t3j0r0ohjicgs4497j00ro6bct5s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inverttriangle.forgbase",
+            "certificate_hash": "37adff50cf69a3d58dc76ebf6e6acadc0cc29f82"
+          }
+        },
+        {
+          "client_id": "644362503991-nupkloqcch8om7qneq5k85lgn7svikip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvsTDYlHbN5evUi2fWhtv0c85nkkDww_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644362503991-nupkloqcch8om7qneq5k85lgn7svikip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
